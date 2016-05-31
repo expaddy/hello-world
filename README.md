@@ -13,9 +13,9 @@ We can aslo write code:
 Inline `code`
 
 ```
-Code blacks can also be written
+Code blocks can also be written
 ```
 
-> Quotes are written with a crocodile clip.
-> This is a quote
+> Quotes are written with a crocodile clip. \n
+> This is a quote \n
 This is not a quote
