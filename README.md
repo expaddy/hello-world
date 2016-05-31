@@ -16,6 +16,6 @@ Inline `code`
 Code blocks can also be written
 ```
 
-> Quotes are written with a crocodile clip. \n
-> This is a quote \n
+> Quotes are written with a crocodile clip. <
+> This is a quote <
 This is not a quote
