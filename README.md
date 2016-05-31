@@ -6,7 +6,7 @@
 
 ### This is a heading-3 , (all the way to six ######)
 
-This is a paragraph. We can write __bold__ and _italics_ by using either underscores or asterisks  (**bold*, *italics*)
+This is a paragraph. We can write __bold__ and _italics_ by using either underscores or asterisks  (**bold**, *italics*)
 
 We can aslo write code:
 
