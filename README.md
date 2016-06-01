@@ -13,6 +13,7 @@ Inline `code`
 
 ```
 Code blocks can also be written and tested
+and extended
 ```
 
 #### This is a heading-4
