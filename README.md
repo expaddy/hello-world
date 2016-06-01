@@ -12,7 +12,7 @@ We can aslo write code:
 Inline `code`
 
 ```
-Code blocks can also be written
+Code blocks can also be written and tested
 ```
 
 #### This is a heading-4
